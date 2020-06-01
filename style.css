@@ -110,3 +110,33 @@ h1
  background-color: darkorange;
  transition: all 0.5s ease-in;
 }
+@media only screen and(min-width:160px) and (max-width: 600px;)
+
+{
+	body{
+
+	margin-right:0;
+}
+ .body{
+ 	margin-right: 0;
+ }
+ .header img
+ {
+ 	width: 100%;
+ 	height: auto;
+ 	margin:0;
+ }
+ 
+ .navigation
+ {
+ 	height: 160px;
+ }
+
+ .content
+ {
+ 	width: 100%;
+ 	float: right;
+ 	margin-top: 1.5%;
+ 	margin-right: 0;
+ }
+ 
